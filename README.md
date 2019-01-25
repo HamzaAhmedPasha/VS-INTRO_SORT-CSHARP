@@ -35,7 +35,7 @@ https://en.wikipedia.org/wiki/Heapsort
 
 Data Structures And Algorithms Using C#, by Michael McMillan (pp.254-262) 
 
-# APPLICATION OF INTRO SORT ALGORITHM
+# APPLICATIONS OF INTRO SORT ALGORITHM
 TO SORT DATA 
 
 OPTICAL CHARACTER RECOGNITION : https://scinapse.io/papers/2222600195
