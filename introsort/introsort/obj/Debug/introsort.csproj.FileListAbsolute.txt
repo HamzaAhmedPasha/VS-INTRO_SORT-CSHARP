@@ -1,0 +1,15 @@
+c:\users\cdc\documents\visual studio 2013\Projects\introsort\introsort\bin\Debug\introsort.exe.config
+c:\users\cdc\documents\visual studio 2013\Projects\introsort\introsort\bin\Debug\introsort.exe
+c:\users\cdc\documents\visual studio 2013\Projects\introsort\introsort\bin\Debug\introsort.pdb
+c:\users\cdc\documents\visual studio 2013\Projects\introsort\introsort\obj\Debug\introsort.csprojResolveAssemblyReference.cache
+c:\users\cdc\documents\visual studio 2013\Projects\introsort\introsort\obj\Debug\introsort.exe
+c:\users\cdc\documents\visual studio 2013\Projects\introsort\introsort\obj\Debug\introsort.pdb
+C:\Users\cdc\Desktop\3rd semester\introsort\introsort\bin\Debug\introsort.exe.config
+C:\Users\cdc\Desktop\3rd semester\introsort\introsort\obj\Debug\introsort.exe
+C:\Users\cdc\Desktop\3rd semester\introsort\introsort\obj\Debug\introsort.pdb
+C:\Users\cdc\Desktop\3rd semester\introsort\introsort\bin\Debug\introsort.exe
+C:\Users\cdc\Desktop\3rd semester\introsort\introsort\bin\Debug\introsort.pdb
+C:\Users\cdc\Desktop\3rd semester\introsort\introsort\obj\Debug\introsort.csprojResolveAssemblyReference.cache
+C:\Users\cdc\Desktop\3rd semester\IntroSort_Algorithm\introsort\bin\Debug\introsort.exe.config
+C:\Users\cdc\Desktop\3rd semester\IntroSort_Algorithm\introsort\obj\Debug\introsort.exe
+C:\Users\cdc\Desktop\3rd semester\IntroSort_Algorithm\introsort\obj\Debug\introsort.pdb
