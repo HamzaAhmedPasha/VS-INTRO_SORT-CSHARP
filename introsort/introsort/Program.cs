@@ -13,7 +13,10 @@ namespace introsort
         static void Main(string[] args)
         {
            
-            Console.WriteLine("enter array size or total numbers to be sorted : ");
+            Console.WriteLine("\t\t\t  xx====== Introsort Algorithm ======xx \n");
+            Console.WriteLine("\n\t\t\t\txx====== Made by: ======xx\n");
+            Console.WriteLine("\t\t\t\t Sarah Meraj (17B-119-SE)\n\t\t\t\t Hamza Ahmed Pasha (17B-115-SE)\n");
+            Console.WriteLine("enter array size or total numbers to be sorted in ascending order : ");
 
                 int n = Convert.ToInt16(Console.ReadLine());
                 int[] a = new int[n];
@@ -39,7 +42,7 @@ namespace introsort
             Program.introsort(ref a, start, end, maximumdepth);
 
             Console.WriteLine("=====================");
-            Console.WriteLine(" SORTED ARRAY ");
+            Console.WriteLine(" SORTED ARRAY IN ASCENDING ORDER ");
             Console.WriteLine("=====================");
 
             // printing sorted array
