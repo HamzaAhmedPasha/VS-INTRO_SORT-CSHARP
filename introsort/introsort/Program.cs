@@ -38,7 +38,7 @@ namespace introsort
 
             int start = 0, end = a.Length - 1;
 
-            // Pass the reference array , starting index , ending index and maximum depth to Introsort Function.
+            // Pass the reference of array , starting index , ending index and maximum depth to Introsort Function.
             Program.introsort(ref a, start, end, maximumdepth);
 
             Console.WriteLine("=====================");
